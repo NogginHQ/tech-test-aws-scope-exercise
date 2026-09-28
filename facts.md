@@ -1,6 +1,6 @@
 # Our situation
 
-We are Ledgerline, a small UK fintech company.
+We are a small UK fintech company.
 
 ## The team
 
@@ -9,7 +9,7 @@ We are Ledgerline, a small UK fintech company.
 
 ## The product
 
-- We sell one HTTPS API to about 10 business customers. The customers are lenders.
+- We sell one HTTPS API to a handful of business customers. The customers are lenders.
 - The UK financial regulator regulates us.
 - Our security certification (ISO 27001) is in progress. Auditors check who can access what, and how we change production.
 
